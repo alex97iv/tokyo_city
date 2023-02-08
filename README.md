@@ -2,4 +2,4 @@
 Данный учебный проект посвящен проектированию и реализации типового аналитического решения для сети 
 городских ресторанов **Tokyo City**, расположенной в г. Санкт-Петербург.
 Обобщенная схема аналитического решения представлена ниже.
-![schema](https://github.com/alex97iv/tokyo_city/blob/main/Untitled%20Diagram.drawio.png)
+![schema](https://github.com/alex97iv/tokyo_city/blob/main/tokyo_city_analytical_solution.png)
